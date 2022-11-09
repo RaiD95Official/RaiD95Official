@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/@raid95_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raid95_official" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piotr-mazurek-73b875239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-mazurek-73b875239/" height="30" width="40" /></a>
-<a href="https://fb.com/@raid95official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@raid95official" height="30" width="40" /></a>
+<a href="https://www.facebook.com/RaiD95Official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@raid95official" height="30" width="40" /></a>
 <a href="https://instagram.com/raid95_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raid95_official" height="30" width="40" /></a>
 
 
