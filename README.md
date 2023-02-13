@@ -1,4 +1,4 @@
-<img  alt="Baner" width="200" src="https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg">
+<img  alt="Baner" width="200%" src="https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg">
 
 # 👨‍💻 About Me:
 🔹Uwielbiam programować<br>🔹Kocham tworzenie własnych projektów<br>🔹W wolnym czasie lubię sobie pograć<br>
