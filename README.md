@@ -1,6 +1,6 @@
 <img  alt="Baner" width="200%" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
-# 👨‍💻 About Me:
+## 👨‍💻 About Me:
 🔹Uwielbiam programować<br>🔹Kocham tworzenie własnych projektów<br>🔹W wolnym czasie lubię sobie pograć<br>
 
 
