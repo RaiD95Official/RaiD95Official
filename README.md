@@ -35,7 +35,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiD95Official&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiD95Official&hide_progress=true)](https://github.com/RaiD95Official/github-readme-stats)
+
 
 
 
