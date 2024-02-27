@@ -35,6 +35,7 @@
 ## 📊 Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiD95Official&show_icons=true&theme=radical)
+<a href="https://app.daily.dev/raid95"><img src="https://api.daily.dev/devcards/v2/Y6FtxHquagFXVtXg6fpdN.png?type=wide&r=70m" width="652" alt="Piotr Mazurek's Dev Card"/></a>
 
 
 
