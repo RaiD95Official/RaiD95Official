@@ -2,6 +2,8 @@
 
 ## 👨‍💻 About Me:
 🔹Uwielbiam programować<br>🔹Kocham tworzenie własnych projektów<br>🔹W wolnym czasie lubię sobie pograć<br>
+If you want to support me, buy me a coffee: <br>
+https://buycoffee.to/piotrdev
 
 
 ## 🌐 Socials:
