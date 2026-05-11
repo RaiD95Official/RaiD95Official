@@ -1,56 +1,54 @@
-<img  alt="Baner" width="200%" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+# Hi, I'm Piotr! 👋
 
-## 👨‍💻 About Me:
-🔹Uwielbiam programować<br>🔹Kocham tworzenie własnych projektów<br>🔹W wolnym czasie lubię sobie pograć<br>
-If you want to support me, buy me a coffee: <br>
-https://buycoffee.to/piotrdev
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Fullstack%20Developer-007ACC?style=for-the-badge" />
+</p>
 
+### 🚀 About Me
+- 🎓 **CS Student** & passionate developer focused on building scalable applications.
+- 📱 **Mobile Specialist**: My core expertise lies in **Android Development** using **Kotlin** and **Java**.
+- 🌐 **Aspiring Full Stack Developer**: Bridging the gap between high-performance mobile apps and robust cloud-based backends.
+- ☁️ Experienced in deploying solutions on **Google Cloud Platform (GCP)** and **AWS**.
 
-## 🌐 Socials:
+---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?1ogo=Facebook&loqoColor=white)](https://facebook.com/RaiD95Official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raid95_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piotr-mazurek-73b875239) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RaiD95_official) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raid95official)
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 🛠 Tech Stack
 
+**Languages & Core Frameworks**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 💻 Tech Stack:
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-<img align="left" alt="GIMP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <br>
+**Cloud & Infrastructure**
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+**Tools & Databases**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-##
-##
-## 📊 Stats:
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaidD95Official&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidD95Official&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiD95Official&show_icons=true&theme=radical)
-<a href="https://app.daily.dev/raid95"><img src="https://api.daily.dev/devcards/v2/Y6FtxHquagFXVtXg6fpdN.png?type=wide&r=70m" width="652" alt="Piotr Mazurek's Dev Card"/></a>
+---
 
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/piotrmazurek" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Raid95_official" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-
-
-
-
-
-
-
-           
-          
-
-
-
-
+<p align="left"> 
+  <a href="https://buycoffee.to/piotrdev">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
