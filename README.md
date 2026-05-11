@@ -6,10 +6,11 @@
 </p>
 
 ### 🚀 About Me
-- 🎓 **CS Student** & passionate developer focused on building scalable applications.
-- 📱 **Mobile Specialist**: My core expertise lies in **Android Development** using **Kotlin** and **Java**.
-- 🌐 **Aspiring Full Stack Developer**: Bridging the gap between high-performance mobile apps and robust cloud-based backends.
-- ☁️ Experienced in deploying solutions on **Google Cloud Platform (GCP)** and **AWS**.
+- 🎓 **CS Student & Continuous Learner**: I am currently honing my skills in software development, constantly exploring new technologies and best practices.
+- 📱 **Mobile Focus**: I am deepening my expertise in **Android Development**, actively learning how to build better apps with **Kotlin** and **Java**.
+- 🌐 **Aspiring Full Stack Developer**: On my journey to becoming a Full Stack dev, I am expanding my knowledge from mobile interfaces to robust cloud-hosted backends.
+- ☁️ Exploring cloud architectures on **Google Cloud Platform (GCP)** and **AWS**.
+- 🛠️ While I'm still learning and growing my specialist skills, I am fully committed to building high-quality, real-world projects.
 
 ---
 
