@@ -35,13 +35,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaidD95Official&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidD95Official&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
 
 ### 📫 Connect with me:
 <p align="left">
